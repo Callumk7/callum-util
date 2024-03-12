@@ -3,7 +3,6 @@
   "version": "1.0.4",
   "description": "Personal utility functions that I use in most projects.",
   "main": "dist/index.js",
-  "type": "module",
   "scripts": {
     "build": "tsc"
   },
