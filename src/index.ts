@@ -1,4 +1,1 @@
-import { uuidv4 } from "./functions/generate-uuid";
-export {
-    uuidv4
-}
+export * from "./functions"
