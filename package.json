@@ -1,0 +1,19 @@
+{
+  "name": "callum-util",
+  "version": "1.0.0",
+  "description": "Personal utility functions that I use in most projects.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "files": [
+    "dist",
+    "src"
+  ],
+  "keywords": [],
+  "author": "Callum Kloos",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.2"
+  }
+}
